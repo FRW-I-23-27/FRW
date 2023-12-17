@@ -46,4 +46,9 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 Die Note wird aus dem Durchschnitt der beiden schriftlichen Prüfungen
 sowie der Benotung der mündlichen Beteiligung berechnet. Der
-Durchschnitt der Prüfungen zählt zu 90%, die mündliche Beteiligung zu 10%.
+Durchschnitt der Prüfungen zählt zu 90%, die mündliche Beteiligung zu
+10%.
+
+Die korrigierten Prüfungen werden für Sie in Microsoft 365 in OneDrive
+abgelegt. Sie finden Sie unter geteilte Dateien, mit Ihnen geteilt, in
+einem Ordner mit Ihrem Familiennamen.
