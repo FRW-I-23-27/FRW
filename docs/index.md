@@ -10,33 +10,33 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 | Datum | Thema |
 | ----- | ----- |
-20/02/2024
-26/02/2024
-27/02/2024
-04/03/2024
-05/03/2024
-11/03/2024
-12/03/2024
-18/03/2024
-19/03/2024
-25/03/2024
-26/03/2024
-02/04/2024
-08/04/2024
-09/04/2024
-06/05/2024
-07/05/2024
-13/05/2024
-14/05/2024
-21/05/2024
-27/05/2024
-28/05/2024
-03/06/2024
-04/06/2024
-17/06/2024
-18/06/2024
-24/06/2024
-25/06/2024
+| 20.02.2024 | Verbuchung von Warenein- und Warenverkäufen |
+| 26.02.2024 | Bestandesänderungen im Warenlager |
+| 27.02.2024 | Mehrwertsteuer |
+| 04.03.2024 | Mehrwertsteuer |
+| 05.03.2024 | Kalkulation |
+| 11.03.2024 | Kalkulation |
+| 12.03.2024 | Mehrstufige ER |
+| 18.03.2024 | Mehrstufige ER |
+| 19.03.2024 | Test Warenhandel |
+| 25.03.2024 | Abschreibungen |
+| 26.03.2024 | Abschreibungen |
+| 02.04.2024 | Abschreibungen |
+| 08.04.2024 | Abschreibungen |
+| 09.04.2024 | Einführung SchKG |
+| 06.05.2024 | Betreibung auf Pfändung |
+| 07.05.2024 | Betreibung auf Konkurs |
+| 13.05.2024 | Verluste auf Forderungen |
+| 14.05.2024 | Test Abschreibungen und SchKG |
+| 21.05.2024 | Wertberichtigung Forderungen |
+| 27.05.2024 | Wertberichtigungen Forderungen |
+| 28.05.2024 | Wertberichtigungen Forderungen |
+| 03.06.2024 | Rechnungsabgrenzungen |
+| 04.06.2024 | Rechnungsabgrenzungen |
+| 17.06.2024 | Rechnungsabgrenzungen |
+| 18.06.2024 | Rückstellungen |
+| 24.06.2024 | Rückstellungen |
+| 25.06.2024 | Test Wertberichtigungen und Rechnungsabgrenzungen |
 
 ## Beurteilung
 
