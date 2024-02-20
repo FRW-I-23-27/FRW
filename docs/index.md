@@ -17,8 +17,8 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 05.03.2024 | Kalkulation |
 | 11.03.2024 | Kalkulation |
 | 12.03.2024 | Mehrstufige ER |
-| 18.03.2024 | Mehrstufige ER |
-| 19.03.2024 | Test Warenhandel |
+| 18.03.2024 | Test Warenhandel |
+| 19.03.2024 | Abschreibungen |
 | 25.03.2024 | Abschreibungen |
 | 26.03.2024 | Abschreibungen |
 | 02.04.2024 | Abschreibungen |
