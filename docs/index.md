@@ -40,7 +40,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 ## Beurteilung
 
-Die Note wird aus dem Durchschnitt der beiden schriftlichen Prüfungen
+Die Note wird aus dem Durchschnitt der drei schriftlichen Prüfungen
 sowie der Benotung der mündlichen Beteiligung berechnet. Der
 Durchschnitt der Prüfungen zählt zu 90%, die mündliche Beteiligung zu
 10%.
