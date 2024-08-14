@@ -8,35 +8,43 @@ Finanz- und Rechnungswesen zur Verfügung gestellt.
 Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 Änderungen kommen.
 
-| Datum | Thema |
-| ----- | ----- |
-| 20.02.2024 | Verbuchung von Warenein- und Warenverkäufen |
-| 26.02.2024 | Bestandesänderungen im Warenlager |
-| 27.02.2024 | Mehrwertsteuer |
-| 04.03.2024 | Mehrwertsteuer |
-| 05.03.2024 | Kalkulation |
-| 11.03.2024 | Kalkulation |
-| 12.03.2024 | Mehrstufige ER |
-| 18.03.2024 | Mehrstufige ER |
-| 19.03.2024 | Test Warenhandel |
-| 25.03.2024 | Abschreibungen |
-| 26.03.2024 | Abschreibungen |
-| 02.04.2024 | Abschreibungen |
-| 08.04.2024 | Abschreibungen |
-| 09.04.2024 | Einführung SchKG |
-| 06.05.2024 | Betreibung auf Pfändung |
-| 07.05.2024 | Betreibung auf Konkurs |
-| 13.05.2024 | Verluste auf Forderungen |
-| 14.05.2024 | Test Abschreibungen und SchKG |
-| 21.05.2024 | Wertberichtigung Forderungen |
-| 27.05.2024 | Wertberichtigungen Forderungen |
-| 28.05.2024 | Wertberichtigungen Forderungen |
-| 03.06.2024 | Rechnungsabgrenzungen |
-| 04.06.2024 | Rechnungsabgrenzungen |
-| 17.06.2024 | Rechnungsabgrenzungen |
-| 18.06.2024 | Rückstellungen |
-| 24.06.2024 | Rückstellungen |
-| 25.06.2024 | Test Wertberichtigungen und Rechnungsabgrenzungen |
+| Datum | Fach | Thema |
+| ----- | ---- | ----- |
+| 19.08.2024 | RW | Einführung Strafprozessrecht |
+| 22.08.2024 | PVBR | Einführung Strafprozessrecht |
+| 26.08.2024 | RW | Lohnabrechnung |
+| 29.08.2024 | PVBR | Verhandlung BGW |
+| 02.09.2024 | RW | Lohnabrechnung |
+| 05.09.2024 | PVBR | Steuern |
+| 09.09.2024 | RW | Immobilien |
+| 12.09.2024 | PVBR | Steuern |
+| 16.09.2024 | RW | Immobilien |
+| 19.09.2024 | PVBR | Urheberrecht (OL Berücksichtigen) |
+| 23.09.2024 | RW | Test |
+| 26.09.2024 | PVBR | Lizenzverträge |
+| 21.10.2024 | RW | Abacus |
+| 24.10.2024 | PVBR | Abacus |
+| 28.10.2024 | RW | Abacus |
+| 31.10.2024 | PVBR | Abacus |
+| 04.11.2024 | RW | Abacus |
+| 07.11.2024 | PVBR | Abacus |
+| 11.11.2024 | RW | Abacus |
+| 14.11.2024 | PVBR | Abacus |
+| 21.11.2024 | PVBR | Abacus |
+| 25.11.2024 | RW | Abacus |
+| 28.11.2024 | PVBR | Datenschutz |
+| 02.12.2024 | RW | Wertschriften |
+| 05.12.2024 | PVBR | Datenschutz |
+| 09.12.2024 | RW | Wertschriften |
+| 12.12.2024 | PVBR | Test |
+| 16.12.2024 | RW | Bewertungsvorschriften |
+| 19.12.2024 | PVBR | Datenvisualisierung |
+| 06.01.2025 | RW | Stille Reserven |
+| 09.01.2025 | PVBR | Datenvisualisierung |
+| 13.01.2025 | RW | Stille Reserven |
+| 16.01.2025 | PVBR | Datenvisualisierung |
+| 20.01.2025 | RW | Test |
+| 23.01.2025 | PVBR | Test |
 
 ## Beurteilung
 
