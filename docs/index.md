@@ -8,6 +8,7 @@ Finanz- und Rechnungswesen zur Verfügung gestellt.
 Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 Änderungen kommen.
 
+
 | Datum | Fach | Thema |
 | ----- | ---- | ----- |
 | 19.08.2024 | RW | Einführung Strafprozessrecht |
