@@ -48,11 +48,16 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 ## Beurteilung
 
-Die Note wird aus dem Durchschnitt der beiden schriftlichen Prüfungen
+Die Note wird in beiden Fächern (FRW und PVBR) aus dem Durchschnitt der schriftlichen Leistungen
 sowie der Benotung der mündlichen Beteiligung berechnet. Der
-Durchschnitt der Prüfungen zählt zu 90%, die mündliche Beteiligung zu
+Durchschnitt der schriftlichen Leistungen zählt zu 90%, die mündliche Beteiligung zu
 10%.
 
 Die korrigierten Prüfungen werden für Sie in Microsoft 365 in OneDrive
 abgelegt. Sie finden Sie unter geteilte Dateien, mit Ihnen geteilt, in
 einem Ordner mit Ihrem Familiennamen.
+
+
+Falls jemand eine persönliche Besprechung wünscht, [kann er sich hier für
+eine Sprechstunde anmelden](https://calendar.app.google/kPthfpWed3uPP1cC6).
+
