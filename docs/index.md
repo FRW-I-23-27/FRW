@@ -1,9 +1,9 @@
-# Informationen für das Fach Finanz- und Rechnungswesen
+# Informationen für das Fach Finanz- und Rechnungswesen sowie PrWR
 
 In diesem Repository werden allgemeine Informationen zum Unterricht in
 Finanz- und Rechnungswesen zur Verfügung gestellt.
 
-## Programm Frühlingssemestr 2024
+## Programm Herbstsemestr 2024
 
 Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 Änderungen kommen.
