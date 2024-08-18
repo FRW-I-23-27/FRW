@@ -78,3 +78,19 @@ Delikts, gemessen an der Strafdrohung. Verbrechen sind Delikte, die mit
 mehr als drei Jahren Freiheitsstrafe bedroht sind. Vergehen werden mit
 Freiheitsstrafen von bis zu drei Jahren oder mit Geldstrafen geahndet.
 Übertretungen sind Taten, die mit Busse bedroht sind.
+
+Sehen wir uns das erste im Strafgesetzbuch geregelte Delikt an:
+
+>Art. 111 StGB, Vorsätzliche Tötung
+>
+>Wer vorsätzlich einen Menschen tötet, ohne dass eine der besondern
+>Voraussetzungen der nachfolgenden Artikel zutrifft, wird mit
+>Freiheitsstrafe nicht unter fünf Jahren bestraft. 
+
+Dieser Artikel verkörpert den prototypischen Aufbau einer
+Strafbestimmung. Im ersten Teil des Satzes wird das Strafbare Verhalten,
+der Tatbestand, umschrieben. Im zweiten Teil des Satzes wird der
+Strafrahmen, die Rechtsfolge, festgehalten. Art. 40 Abs. 2 StGB legt das
+Höchstmass für Freiheitsstrafen grundsätzlich bei 20 Jahren fest. Damit
+steht dem Gericht ein erheblicher Ermessensspielraum offen. Die Art. 47
+ff. StGB legen fest, wie dieser Ermessensspielraum auszuüben ist.
