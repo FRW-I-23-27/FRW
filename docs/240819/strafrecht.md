@@ -28,3 +28,9 @@ Strafe ist damit nicht blinde Vergeltung sondern vielmehr ein
 Instrument, die Gesellschaft als Ganzes in einem stabilen und damit
 friedlichen Zustand zu halten. Die Strafe ist damit ein Instrument zur
 Wahrung des Friedens.
+
+Die Funktion der Friedenssicherung ist allerdings nicht die einzige
+Aufgabe der Strafe. Die Gesellschaft verspricht sich darüber hinaus eine
+abschreckende Wirkung auf potentielle Straftäter (Generalprävention)
+sowie eine erzieherische Wirkung auf verurteilte Straftäter
+(Spezialprävention; Straftäter sollen nicht rückfällig werden). 
