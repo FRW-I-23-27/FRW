@@ -34,3 +34,47 @@ Aufgabe der Strafe. Die Gesellschaft verspricht sich darüber hinaus eine
 abschreckende Wirkung auf potentielle Straftäter (Generalprävention)
 sowie eine erzieherische Wirkung auf verurteilte Straftäter
 (Spezialprävention; Straftäter sollen nicht rückfällig werden). 
+
+## Die Straftat
+
+Nach dem Warum der Strafe kann man sich dem Was zuwenden. Was also wird
+in der Schweiz bestraft?
+
+Art. 1 StGB hält fest, dass das Strafgesetzbuch eine Black List ist: Nur
+was durch das Gesetz ausdrücklich mit Strafe bedroht ist, darf bestraft
+werden. Anders formuliert bedeutet das, alles, was nicht ausdrücklich
+verboten ist, ist erlaubt.
+
+Die einzelnen Delikte werden durch das StGB in 20 Titel gruppiert:
+
+* Strafbare Handlungen gegen Leib und Leben
+* Strafbare Handlungen gegen das Vermögen
+* Strafbare Handlungen gegen die Ehre und den Geheim- oder Privatbereich
+* Verbrechen und Vergehen gegen die Freiheit
+* Strafbare Handlungen gegen die sexuelle Integrität
+* Verbrechen und Vergehen gegen die Familie
+* Gemeingefährliche Verbrechen und Vergehen
+* Verbrechen und Vergehen gegen die öffentliche Gesundheit
+* Verbrechen und Vergehen gegen den öffentlichen Verkehr
+* Fälschung von Geld, amtlichen Wertzeichen, amtlichen Zeichen, Mass und
+  Gewicht 
+* Urkundenfälschung
+* Verbrechen und Vergehen gegen den öffentlichen Frieden
+* Verbrechen und Vergehen gegen den Staat und die Landesverteidigung 
+* Vergehen gegen den Volkswillen
+* Strafbare Handlungen gegen die öffentliche Gewalt
+* Störung der Beziehungen zum Ausland
+* Verbrechen und Vergehen gegen die Rechtspflege
+* Strafbare Handlungen gegen die Amts- und Berufspflicht
+* Bestechung
+* Übertretungen bundesrechtlicher Bestimmungen
+
+Bei Durchsicht dieser Liste fällt auf, dass strafbaren Handlungen
+einerseits und von Verbrechen, Vergehen und Übertretungen andererseits
+gesprochen wird. Der Begriff der strafbaren Handlung stellt dabei den
+Oberbegriff der zweiten Gruppe dar. Die Einteilung der Delikte in
+Verbrechen, Vergehen und Übertretungen richtet sich nach der schwere des
+Delikts, gemessen an der Strafdrohung. Verbrechen sind Delikte, die mit
+mehr als drei Jahren Freiheitsstrafe bedroht sind. Vergehen werden mit
+Freiheitsstrafen von bis zu drei Jahren oder mit Geldstrafen geahndet.
+Übertretungen sind Taten, die mit Busse bedroht sind.
