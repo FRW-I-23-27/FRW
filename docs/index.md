@@ -11,7 +11,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 | Datum | Fach | Thema |
 | ----- | ---- | ----- |
-| 19.08.2024 | RW | Einführung Strafprozessrecht |
+| 19.08.2024 | RW | [Einführung Strafrecht](240819/strafrecht.md) |
 | 22.08.2024 | PVBR | Einführung Strafprozessrecht |
 | 26.08.2024 | RW | Lohnabrechnung |
 | 29.08.2024 | PVBR | Verhandlung BGW |
