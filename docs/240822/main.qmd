@@ -1,0 +1,59 @@
+---
+title: Strafprozessrecht
+author: Jacques Mock Schindler
+date: 22. August 2024
+lang: de-CH
+date-format: "D. MMMM YYYY"
+format: 
+    revealjs:
+        theme: solarized
+        logo: logo.svg
+        css: custom.css
+        margin: 0.1
+
+
+---
+
+
+## Ziele des Strafverfahrens
+
+:::{.incremental}
+
+* Wahrung und Wiederherstellung des Rechtsfriedens
+* Regelung des Verfahrensablaufs bei der Durchsetzung des staatlichen Strafanspruchs
+* Erforschung der materiellen Wahrheit von Amtes wegen
+* Durchsetzung des staatlichen Strafanspruchs
+
+:::
+
+## Prozessmaximen
+
+:::{.incremental}
+
+* Offizialmaxime
+* Legalitäts- bzw. Opportunitätsprinzip
+* Achtung der Menschenwürde
+* Anklagegrundsatz
+* Beschleunigungsgebot
+* Instruktionsmaxime, Wahrheitsgrundsat und Dispostitionsmaxime
+* Unmittelbarkeit bzw. Mittelbarkeit
+* Mündlichkeit bzw. Schriftlichkeit
+* Dokumentationspflicht
+* Öffentlichkeit
+* Unschuldsvermutung und Grundsatz von in dubio pro reo 
+* freie Beweiswürdigung
+* gesetzlicher Richter
+
+:::
+
+## Offizialmaxime
+
+>**Art. 2 Abs. 1 StPO**
+>
+>Die Strafrechtspflege steht einzig den vom Gesetz bestimmten *Behörden* zu.
+
+>**Art. 7 Abs. 1 StPO**
+>
+>Die Strafbehörden sind verpflichtet, im Rahmen ihrer Zuständigkeit 
+>ein Verfahren einzuleiten und durchzuführen, wenn ihnen Straftaten 
+>oder auf Straftaten hinweisende Verdachtsgründe bekannt werden.
