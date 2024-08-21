@@ -135,7 +135,7 @@ soweit dieses Gesetz nicht Schriftlichkeit vorsieht.
 
 ## Öffentlichkeit
 
-## Art. 69 Abs. 1 StPO
+### Art. 69 Abs. 1 StPO
 
 $^1$Die Verhandlungen vor dem erstinstanzlichen Gericht 
 und dem Berufungsgericht sowie die mündliche Eröffnung 
