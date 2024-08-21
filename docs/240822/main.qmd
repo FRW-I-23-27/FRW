@@ -26,7 +26,7 @@ format:
 
 :::
 
-## Prozessmaximen
+## Prozessmaximen {.scrollable}
 
 :::{.incremental}
 
