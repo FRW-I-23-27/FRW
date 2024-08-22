@@ -8,6 +8,7 @@ format:
     revealjs:
         theme: solarized
         logo: logo.svg
+        slide-number: true
         css: custom.css
         margin: 0.1
 
@@ -55,28 +56,23 @@ $^1$Die Strafrechtspflege steht einzig den vom Gesetz bestimmten *Behörden* zu.
 
 ### Art. 7 Abs. 1 StPO
 
-$^1$Die *Strafbehörden* sind verpflichtet, im Rahmen ihrer Zuständigkeit 
-ein Verfahren einzuleiten und durchzuführen, wenn ihnen Straftaten 
-oder auf Straftaten hinweisende Verdachtsgründe bekannt werden.
+$^1$Die *Strafbehörden* sind verpflichtet, im Rahmen ihrer Zuständigkeit ein Verfahren einzuleiten und durchzuführen, wenn ihnen Straftaten oder auf Straftaten hinweisende Verdachtsgründe bekannt werden.
 
 ## Legalitäts- bzw. Opportunitätsprinzip
 
 ### Art. 5 Abs. 1 BV
 
-$^1$Grundlage und Schranke staatlichen Handelns ist das Recht.
+$^1$Grundlage und Schranke staatlichen Handelns ist das *Recht*.
 
 ### Art. 8 Abs. 1 StPO
 
-$^1$Staatsanwaltschaft und Gerichte sehen von der Strafverfolgung ab,
-wenn das Bundesrecht es vorsieht, namentlich unter den Voraussetzungen 
-der Artikel 52, 53 und 54 des Strafgesetzbuches (StGB).
+$^1$Staatsanwaltschaft und Gerichte *sehen von der Strafverfolgung ab*, wenn das Bundesrecht es vorsieht, namentlich unter den Voraussetzungen der Artikel 52, 53 und 54 des Strafgesetzbuches (StGB).
 
 ## Achtung der Menschenwürde
 
 ### Art. 3 Abs. 1 StPO
 
-$^1$Die Strafbehörden achten in allen Verfahrensstadien die Würde 
-der vom Verfahren betroffenen Menschen.
+$^1$Die Strafbehörden achten in allen Verfahrensstadien die Würde der vom Verfahren betroffenen Menschen.
 
 ### Art. 7 BV
 
@@ -86,27 +82,21 @@ Die Würde des Menschen ist zu achten und zu schützen.
 
 ### Art. 9 Abs. 1 StPO
 
-$^1$Eine Straftat kann nur gerichtlich beurteilt werden, wenn 
-die Staatsanwaltschaft gegen eine bestimmte Person wegen eines 
-genau umschriebenen Sachverhalts beim zuständigen Gericht 
-Anklage erhoben hat.
+$^1$Eine Straftat kann nur gerichtlich beurteilt werden, wenn die Staatsanwaltschaft gegen eine bestimmte Person wegen eines *genau umschriebenen Sachverhalts* beim zuständigen Gericht Anklage erhoben hat.
 
 ## Beschleunigungsgebot
 
 ### Art. 5 StPO
 
-$^1$Die Strafbehörden nehmen die Strafverfahren unverzüglich 
-an die Hand und bringen sie ohne unbegründete Verzögerung zum Abschluss.
+$^1$Die Strafbehörden nehmen die Strafverfahren unverzüglich an die Hand und bringen sie ohne unbegründete Verzögerung zum Abschluss.
 
-$^2$Befindet sich eine beschuldigte Person in Haft, so wird ihr 
-Verfahren vordringlich durchgeführt.
+$^2$Befindet sich eine beschuldigte Person in Haft, so wird ihr Verfahren vordringlich durchgeführt.
 
 ## Instruktionsmaxime, Wahrheitsgrundsat und Dispostitionsmaxime
 
 ### Art. 6 Abs. 1 StPO
 
-$^1$Die Strafbehörden klären von Amtes wegen alle für die 
-Beurteilung der Tat und der beschuldigten Person bedeutsamen Tatsachen ab.
+$^1$Die Strafbehörden klären von Amtes wegen alle für die Beurteilung der Tat und der beschuldigten Person bedeutsamen Tatsachen ab.
 
 ## Unmittelbarkeit bzw. Mittelbarkeit
 
@@ -137,37 +127,26 @@ soweit dieses Gesetz nicht Schriftlichkeit vorsieht.
 
 ### Art. 69 Abs. 1 StPO
 
-$^1$Die Verhandlungen vor dem erstinstanzlichen Gericht 
-und dem Berufungsgericht sowie die mündliche Eröffnung 
-von Urteilen und Beschlüssen dieser Gerichte sind mit 
-Ausnahme der Beratung öffentlich.
+$^1$Die Verhandlungen vor dem erstinstanzlichen Gericht und dem Berufungsgericht sowie die mündliche Eröffnung von Urteilen und Beschlüssen dieser Gerichte sind mit Ausnahme der Beratung öffentlich.
 
 ## Unschuldsvermutung und Grundsatz von in dubio pro reo 
 
 ### Art. 10 Abs. 1 StPO
 
-$^1$Jede Person gilt bis zu ihrer rechtskräftigen Verurteilung 
-als unschuldig.
+$^1$Jede Person gilt *bis zu ihrer rechtskräftigen Verurteilung* als unschuldig.
 
 ### Art. 10 Abs. 3 StPO
 
-$^3$Bestehen *unüberwindliche* Zweifel an der Erfüllung der 
-tatsächlichen Voraussetzungen der angeklagten Tat, so geht 
-das Gericht von der für die beschuldigte Person günstigeren 
-Sachlage aus.
+$^3$Bestehen *unüberwindliche* Zweifel an der Erfüllung der tatsächlichen Voraussetzungen der angeklagten Tat, so geht  das Gericht von der für die beschuldigte Person günstigeren Sachlage aus.
 
 ## Freie Beweiswürdigung
 
 ### Art. 10 Abs. 2 StPO
 
-$^2$Das Gericht würdigt die Beweise frei nach seiner aus dem 
-gesamten Verfahren gewonnenen Überzeugung.
+$^2$Das Gericht *würdigt die Beweise frei* nach seiner aus dem gesamten Verfahren gewonnenen Überzeugung.
 
 ## Gesetzlicher Richter
 
 ### Art. 30 Abs. 1 BV
 
-$^1$Jede Person, deren Sache in einem gerichtlichen Verfahren 
-beurteilt werden muss, hat Anspruch auf ein durch Gesetz geschaffenes, 
-zuständiges, unabhängiges und unparteiisches Gericht. 
-Ausnahmegerichte sind untersagt.
+$^1$Jede Person, deren Sache in einem gerichtlichen Verfahren beurteilt werden muss, hat Anspruch auf ein durch Gesetz geschaffenes, zuständiges, unabhängiges und unparteiisches Gericht. *Ausnahmegerichte sind untersagt*.
