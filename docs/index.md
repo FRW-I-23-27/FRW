@@ -20,8 +20,8 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 09.09.2024 | RW | Immobilien |
 | 12.09.2024 | PVBR | Steuern |
 | 16.09.2024 | RW | Immobilien |
-| 19.09.2024 | PVBR | Urheberrecht (OL Berücksichtigen) |
-| 23.09.2024 | RW | Test |
+| 19.09.2024 | PVBR | Test RW (OL Berücksichtigen) |
+| 23.09.2024 | RW | URG |
 | 26.09.2024 | PVBR | Lizenzverträge |
 | 21.10.2024 | RW | Abacus |
 | 24.10.2024 | PVBR | Abacus |
