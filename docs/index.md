@@ -11,8 +11,8 @@ kommen. Die Programme der vergangenen Semester sind
 
 ## Finanz- und Rechnungswesen
 
-| Datum | Fach | Thema |
-| ----- | ---- | ----- |
+| Datum | Fach |
+| ----- | ---- |
 | 17.02.2025 | Rückblick stille Reserven |
 | 24.02.2025 | Abschlüsse Einzelunternehmung |
 | 17.03.2025 | Abschlüsse Einzelunternehmung |
@@ -31,8 +31,8 @@ kommen. Die Programme der vergangenen Semester sind
 
 ## Projekte Wirtschaft und Recht
 
-| Datum | Fach | Thema |
-| ----- | ---- | ----- |
+| Datum | Fach |
+| ----- | ---- | 
 | 20.02.2025 | Arbeit am Projekt |
 | 27.02.2025 | Arbeit am Projekt |
 | 06.03.2025 | Arbeit am Projekt |
