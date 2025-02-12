@@ -3,49 +3,32 @@
 In diesem Repository werden allgemeine Informationen zum Unterricht in
 Finanz- und Rechnungswesen zur Verfügung gestellt.
 
-## Programm Herbstsemestr 2024
+## Programm Frühlingssemester 2025
 
-Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
-Änderungen kommen.
+Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu Änderungen
+kommen. Die Programme der vergangenen Semester sind 
+[hier archiviert](archive/inhalt.md).
 
+## Finanz- und Rechnungswesen
 
 | Datum | Fach | Thema |
 | ----- | ---- | ----- |
-| 19.08.2024 | RW | [Einführung Strafrecht](240819/strafrecht.md) |
-| 22.08.2024 | PVBR | Einführung Strafprozessrecht |
-| 26.08.2024 | RW | Lohnabrechnung |
-| 29.08.2024 | PVBR | Verhandlung BGW |
-| 02.09.2024 | RW | Lohnabrechnung |
-| 05.09.2024 | PVBR | Steuern |
-| 09.09.2024 | RW | Immobilien |
-| 12.09.2024 | PVBR | Steuern |
-| 16.09.2024 | RW | Immobilien |
-| 19.09.2024 | PVBR | Test RW (OL Berücksichtigen) |
-| 23.09.2024 | RW | URG |
-| 26.09.2024 | PVBR | Lizenzverträge |
-| 21.10.2024 | RW | Abacus |
-| 24.10.2024 | PVBR | Abacus |
-| 28.10.2024 | RW | Abacus |
-| 31.10.2024 | PVBR | Abacus |
-| 04.11.2024 | RW | Abacus |
-| 07.11.2024 | PVBR | Abacus |
-| 11.11.2024 | RW | Abacus |
-| 14.11.2024 | PVBR | Abacus |
-| 21.11.2024 | PVBR | Abacus |
-| 25.11.2024 | RW | Abacus |
-| 28.11.2024 | PVBR | Datenschutz |
-| 02.12.2024 | RW | Wertschriften |
-| 05.12.2024 | PVBR | Datenschutz |
-| 09.12.2024 | RW | Wertschriften |
-| 12.12.2024 | PVBR | Test |
-| 16.12.2024 | RW | Bewertungsvorschriften |
-| 19.12.2024 | PVBR | Datenvisualisierung |
-| 06.01.2025 | RW | Stille Reserven |
-| 09.01.2025 | PVBR | Datenvisualisierung |
-| 13.01.2025 | RW | Stille Reserven |
-| 16.01.2025 | PVBR | Datenvisualisierung |
-| 20.01.2025 | RW | Test |
-| 23.01.2025 | PVBR | Test |
+| 17.02.2025 | Rückblick stille Reserven |
+| 24.02.2025 | Abschlüsse Einzelunternehmung |
+| 17.03.2025 | Abschlüsse Einzelunternehmung |
+| 24.03.2025 | Gewinnverwendung in der AG |
+| 31.03.2025 | Test (Abschluss Einzelunternehmen) |
+| 07.04.2025 | Verbuchung der Kapitalerhöhung in der AG |
+| 14.04.2025 | Unterbilanzen |
+| 12.05.2025 | Konsolidierung (Überblick) |
+| 19.05.2025 | (internationale) Rechnungslegungsvorschriften |
+| 26.05.2025 | Geldflussrechnung |
+| 02.06.2025 | Geldflussrechnung |
+| 16.06.2025 | Geldflussrechnung |
+| 23.06.2025 | Test (Abschluss AG, Geldflussrechnung) |
+| 30.06.2025 | Geldflussrechnung |
+| 07.07.2025 | Geldflussrechnung |
+
 
 ## Beurteilung
 
