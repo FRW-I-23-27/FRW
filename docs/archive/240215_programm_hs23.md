@@ -1,4 +1,4 @@
-## Programm
+## Programm Herbstsemester 23/24
 
 Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 Änderungen kommen.
