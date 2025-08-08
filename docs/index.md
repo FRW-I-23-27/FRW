@@ -47,5 +47,5 @@ einem Ordner mit Ihrem Familiennamen.
 
 
 Falls jemand eine persönliche Besprechung wünscht, [kann er sich hier für
-eine Sprechstunde anmelden](https://calendar.app.google/kPthfpWed3uPP1cC6).
+eine Sprechstunde anmelden](https://calendar.app.google/XdTippvkrbHJct3Y9).
 
