@@ -13,7 +13,7 @@ kommen. Die Programme der vergangenen Semester sind
 
 | Datum | Fach |
 | ----- | ---- |
-| 18.08.2025 | Bilanz- und Erfolgsanalyse: Vorbereitung der Analyse Vermögensstruktur, Investierung |
+| 18.08.2025 | Bilanz- und Erfolgsanalyse: Vorbereitung der Analyse |
 | 25.08.2025 | Bilanz- und Erfolgsanalyse: Kapitalstruktur, Finanzierung |
 | 28.08.2025 | Bilanz- und Erfolgsanalyse: Liquidität |
 | 01.09.2025 | Bilanz- und Erfolgsanalyse: Anlagedeckung |
@@ -28,7 +28,7 @@ kommen. Die Programme der vergangenen Semester sind
 | 23.10.2025 | Test |
 | 27.10.2025 | Kostenarten (Fix/Variabel) |
 | 30.10.2025 | Deckungsbeitrag |
-| 03.11.2025 | Rekonstruktion Tabelle Seite 71 |
+| 03.11.2025 | Übung Deckungsbeitragsrechnung |
 | 06.11.2025 | Anwendungsübung Break-Even Berechnung (Make or Buy) |
 | 10.11.2025 | Anwendungsübung Break-Even Berechnung (Make or Buy) |
 | 13.11.2025 | Test |
