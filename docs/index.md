@@ -13,25 +13,30 @@ kommen. Die Programme der vergangenen Semester sind
 
 | Datum | Fach |
 | ----- | ---- |
-| 17.02.2025 | Rückblick stille Reserven |
-| 24.02.2025 | Abschlüsse Einzelunternehmung |
-| 17.03.2025 | Abschlüsse Einzelunternehmung |
-| 24.03.2025 | Gewinnverwendung in der AG |
-| 31.03.2025 | Test (Abschluss Einzelunternehmen) |
-| 07.04.2025 | Verbuchung der Kapitalerhöhung in der AG |
-| 14.04.2025 | Unterbilanzen |
-| 12.05.2025 | Konsolidierung (Überblick) |
-| 19.05.2025 | (internationale) Rechnungslegungsvorschriften |
-| 26.05.2025 | Geldflussrechnung |
-| 02.06.2025 | Geldflussrechnung |
-| 16.06.2025 | Geldflussrechnung |
-| 23.06.2025 | Test (Abschluss AG, Geldflussrechnung) |
-| 30.06.2025 | Geldflussrechnung |
-| 07.07.2025 | Geldflussrechnung |
+| 18.08.2025 | Bilanz- und Erfolgsanalyse: Vorbereitung der Analyse Vermögensstruktur, Investierung |
+| 25.08.2025 | Bilanz- und Erfolgsanalyse: Kapitalstruktur, Finanzierung |
+| 28.08.2025 | Bilanz- und Erfolgsanalyse: Liquidität |
+| 01.09.2025 | Bilanz- und Erfolgsanalyse: Anlagedeckung |
+| 04.09.2025 | Bilanz- und Erfolgsanalyse: Kapitalrenditen |
+| 08.09.2025 | Bilanz- und Erfolgsanalyse: Kapitalrenditen |
+| 11.09.2025 | Test |
+| 15.09.2025 | Bilanz- und Erfolgsanalyse: Umsatzrendite |
+| 18.09.2025 | Bilanz- und Erfolgsanalyse: Aktivitätskennzahlen |
+| 22.09.2025 | Bilanz- und Erfolgsanalyse: Aktivitätskennzahlen |
+| 25.09.2025 | Bilanz- und Erfolgsanalyse: Analyse der GFR |
+| 20.10.2025 | Bilanz- und Erfolgsanalyse: Aktivitätskennzahlen |
+| 23.10.2025 | Test |
+| 27.10.2025 | Kostenarten (Fix/Variabel) |
+| 30.10.2025 | Deckungsbeitrag |
+| 03.11.2025 | Rekonstruktion Tabelle Seite 71 |
+| 06.11.2025 | Anwendungsübung Break-Even Berechnung (Make or Buy) |
+| 10.11.2025 | Anwendungsübung Break-Even Berechnung (Make or Buy) |
+| 13.11.2025 | Test |
+
 
 ## Beurteilung
 
-Die Note wird in beiden Fächern (FRW und PVBR) aus dem Durchschnitt der schriftlichen Leistungen
+Die Note wird aus dem Durchschnitt der schriftlichen Leistungen
 sowie der Benotung der mündlichen Beteiligung berechnet. Der
 Durchschnitt der schriftlichen Leistungen zählt zu 90%, die mündliche Beteiligung zu
 10%.
