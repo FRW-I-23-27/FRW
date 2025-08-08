@@ -1,9 +1,9 @@
-# Informationen für das Fach Finanz- und Rechnungswesen sowie PrWR
+# Informationen für das Fach Finanz- und Rechnungswesen
 
 In diesem Repository werden allgemeine Informationen zum Unterricht in
 Finanz- und Rechnungswesen zur Verfügung gestellt.
 
-## Programm Frühlingssemester 2025
+## Programm Herbstsemester 2025 / 2026
 
 Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu Änderungen
 kommen. Die Programme der vergangenen Semester sind 
@@ -28,29 +28,6 @@ kommen. Die Programme der vergangenen Semester sind
 | 23.06.2025 | Test (Abschluss AG, Geldflussrechnung) |
 | 30.06.2025 | Geldflussrechnung |
 | 07.07.2025 | Geldflussrechnung |
-
-## Projekte Wirtschaft und Recht
-
-| Datum | Fach |
-| ----- | ---- | 
-| 20.02.2025 | Arbeit am Projekt |
-| 27.02.2025 | Arbeit am Projekt |
-| 06.03.2025 | Arbeit am Projekt |
-| 13.03.2025 | Projektabgabe |
-| 20.03.2025 | Interatkive WebApp |
-| 27.03.2025 | Interatkive WebApp |
-| 03.04.2025 | Interatkive WebApp |
-| 10.04.2025 | Interatkive WebApp |
-| 17.04.2025 | Interatkive WebApp |
-| 15.05.2025 | Interatkive WebApp |
-| 22.05.2025 | Interatkive WebApp |
-| 05.06.2025 | Interatkive WebApp |
-| 12.06.2025 | Interatkive WebApp |
-| 19.06.2025 | Interatkive WebApp |
-| 26.06.2025 | Projektabgabe |
-| 03.07.2025 | Bewerbungsvorbereitung |
-| 10.07.2025 | Bewerbungsvorbereitung |
-
 
 ## Beurteilung
 

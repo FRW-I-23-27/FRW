@@ -5,3 +5,5 @@
 [Frühlingssemester 24](240814_programm_fs24.md)
 
 [Herbstsemester 24/25](250212_programm(hs24.md))
+
+[Frühlingssemester 25](250808_programm_fs25.md)
